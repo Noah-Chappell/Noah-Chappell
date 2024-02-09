@@ -8,7 +8,7 @@ I'm a dedicated third-year full-time Computer Science student at UCI, actively p
 
 * 🌍  I'm based in Irvine, CA
 * ✉️  You can contact me at [noahmchappell@gmail.com](mailto:noahmchappell@gmail.com)
-* 🧠  I'm learning advanced algorithms in college but on the side learning JavaScript to put a face on my projects
+* 🧠  I'm currently learning about databases and network architecture
 * 🤝  I'm open to collaborating on any interesting projects that I could help with or learn something from
 
 ### Skills
