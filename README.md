@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student Developer
 -----------------
 
-I have been learning to code since high school and am proficient in C++ and Python. I am a full time student pursuing Computer Science and Engineering, B.S. but am looking for internship opportunities for summers. I truly love programing and am passionate about learning and improving at my craft.
+I'm a dedicated third-year full-time Computer Science student at UCI, actively pursuing a bachelor's degree in Computer Science and Engineering. Aspiring for a career in software development, I'm actively seeking internship opportunities for the summer. My coding journey, starting in high school, has equipped me with a versatile skill set across various programming languages and aspects of software development. Fueled by a genuine love for programming, I am passionate about continuous learning and refining my skills. Confident in the robust foundation provided by UCI, I aim to leverage these skills for a rewarding and enduring career in software development.
 
 * 🌍  I'm based in Irvine, CA
 * ✉️  You can contact me at [noahmchappell@gmail.com](mailto:noahmchappell@gmail.com)
@@ -14,10 +14,7 @@ I have been learning to code since high school and am proficient in C++ and Pyth
 ### Skills
 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
 ### Socials
